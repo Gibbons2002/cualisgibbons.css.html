@@ -18,6 +18,11 @@
         <h1>Department of Library and Information Science</h1>\
         <p><a href="http://lis.cua.edu/about/" target="_blank">CUA LIS Department</a></p>\
     </header>\
+{background color: yellow}
+{border: solid blue}
+{font-style: italic; font-weight: bold}
+{h2: text-align: center; font-family: Tahoma}
+{h3: color: blue}
 \
     <main>\
         <section id="vision">\
